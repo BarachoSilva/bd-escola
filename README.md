@@ -2,7 +2,7 @@
 
 Este repositório contém um script SQL para criar um banco de dados de um sistema de biblioteca simples. O esquema inclui tabelas para alunos, empréstimos, livros, livros emprestados e sessões.
 
-## Estrutura do Banco de Dados#
+## Estrutura do Banco de Dados
 
 Tabelas
 Aluno: Armazena informações sobre os alunos, como nome, matrícula, e-mail, endereço e telefone.
