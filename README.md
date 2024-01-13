@@ -1,7 +1,9 @@
-Sistema de Biblioteca - Banco de Dados
+#Sistema de Biblioteca - Banco de Dados#
+
 Este repositório contém um script SQL para criar um banco de dados de um sistema de biblioteca simples. O esquema inclui tabelas para alunos, empréstimos, livros, livros emprestados e sessões.
 
-Estrutura do Banco de Dados
+#Estrutura do Banco de Dados#
+
 Tabelas
 Aluno: Armazena informações sobre os alunos, como nome, matrícula, e-mail, endereço e telefone.
 
@@ -13,12 +15,12 @@ Livro: Contém dados sobre os livros, como código, título, autor e código de 
 
 Sessao: Descreve as sessões onde os livros estão localizados, com código, descrição e localização.
 
-Como Usar
+#Como Usar#
 Execute o script SQL no seu sistema de gerenciamento de banco de dados favorito para criar as tabelas e inserir os dados de exemplo.
 
 Adapte o esquema conforme necessário para atender aos requisitos específicos do seu sistema.
 
-Contribuições
+#Contribuições#
 Sinta-se à vontade para contribuir, reportar problemas ou propor melhorias. Seja parte do desenvolvimento deste sistema de biblioteca e ajude a torná-lo ainda mais útil e robusto.
 
 Divirta-se explorando e expandindo este banco de dados!
